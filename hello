@@ -1,6 +1,8 @@
 #!/bin/bash
 
 X="Leia"
-echo ${X} "is beautiful"
+echo "Hello" ${X}
+
+
 
 
